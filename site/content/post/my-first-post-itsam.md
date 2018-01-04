@@ -1,6 +1,6 @@
 ---
 title: My first post itsam
-date: 2017-12-05T00:00:00+02:00
+date: 2017-12-04T22:00:00.000Z
 description: That's a nice intro. και λίγα ελληνικά
 image: /img/eventsense.jpeg
 ---
@@ -11,4 +11,4 @@ image: /img/eventsense.jpeg
 3. τρία
 4. τέσσερα
 
-και συνεχίζουμε
+και `συνεχίζουμε`
